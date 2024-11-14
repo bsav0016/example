@@ -1,0 +1,14 @@
+- Create react app (npx create-react-app app-name)
+- Add Backend folder
+- Start with app.py initialization
+- models.py - build models
+- populate env.py
+- complete seed file
+- python -m venv venv
+- venv\Scripts\activate
+- add necessary requirements and create requirements.txt
+- add "*/venv", "*.log", "*/__pycache__" and "*/instance" to .gitignore
+
+
+Frontend:
+- npm install react-router-dom
